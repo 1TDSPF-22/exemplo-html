@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+hr {
+    background-color: palevioletred;
+    height: 5px;
+}
+
+#margin {
+    margin: 3em;
+}
